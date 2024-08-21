@@ -22,4 +22,4 @@ Chinese-CLIP的核心在于其融合了自然语言处理和计算机视觉两�
 
 5）完成输出后处理。将embedding向量做normalize处理。计算输入文字的embedding向量与全部图片的embedding向量的相似性。
 
-
+6）比对多个图片不同的相似性，取最高者进行图片展示。
